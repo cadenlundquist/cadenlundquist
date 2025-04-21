@@ -46,7 +46,9 @@
 
 <!-- Fun Section -->
 ### 🎉 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."
+
+-Nelson Mandela
 
 <!-- Footer -->
 <p align="center">Thanks for stopping by! 😄</p>
