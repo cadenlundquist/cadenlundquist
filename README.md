@@ -4,9 +4,9 @@
 
 <!-- Short Description -->
 - 🔭 I’m currently working on **CTFs**
-- 🌱 I’m currently learning **Cloud Security Basics**
-- 👯 I’m looking to collaborate on **[Open source or specific project ideas]**
-- 🤝 I’m looking for help with **Building a honeypot network**
+- 🌱 I’m currently learning **cloud security basics**
+- 👯 I’m looking to collaborate on **a fishing simulation tool**
+- 🤝 I’m looking for help with **building a honeypot network**
 - 💬 Ask me about **what it's like transitioning into a different field**
 - 📫 How to reach me: **see links below**
 - ⚡ Fun fact: **I think McDonald's fries are extremely overrated - Chick fil-A's are far superior**
