@@ -13,14 +13,34 @@
 ---
 
 <!-- Tech Stack -->
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+## 🛠️ Tech Stack
+
+### 🧰 Tools & Platforms
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+![tcpdump](https://img.shields.io/badge/tcpdump-000000?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-FF6B6B?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![OnVUE](https://img.shields.io/badge/OnVUE-005BA1?style=for-the-badge)
+
+### 🧪 Skills & Techniques
+![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-006400?style=for-the-badge)
+![Network Filtering](https://img.shields.io/badge/Traffic_Filtering-FF8C00?style=for-the-badge)
+![IDS Rules](https://img.shields.io/badge/IDS_Rules_(Suricata)-B22222?style=for-the-badge)
+![JSON Logs](https://img.shields.io/badge/Log_Analysis_(JSON)-A9A9A9?style=for-the-badge)
+![Command Line](https://img.shields.io/badge/Command_Line-4EAA25?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+
+### 📦 Certifications & Courses
+![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![CompTIA Security+](https://img.shields.io/badge/Security%2B_(SY0--701)-E60028?logo=comptia&logoColor=white&style=for-the-badge)
+
+### 🧠 Soft Skills & Methodologies
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-4682B4?style=for-the-badge)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-DAA520?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-2E8B57?style=for-the-badge)
+![Self-Learning](https://img.shields.io/badge/Self_Paced_Learning-9932CC?style=for-the-badge)
+
 
 ---
 
