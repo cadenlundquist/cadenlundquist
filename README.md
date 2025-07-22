@@ -3,8 +3,8 @@
 <h3 align="center">A curious cyber-guy from Utah</h3>
 
 <!-- Short Description -->
+- 🌱 I’m currently looking for a **cybersecurity analyst** role
 - 🔭 I’m currently working on **CTFs**
-- 🌱 I’m currently learning **cloud security basics**
 - 🤝 I’m looking to collaborate on **building a honeypot network**
 - 💬 Ask me about **what it's like transitioning from a different field**
 - 📫 How to reach me: **see links below**
