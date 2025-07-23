@@ -33,11 +33,18 @@
 ![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?logo=google&logoColor=white&style=for-the-badge)
 ![CompTIA Security+](https://img.shields.io/badge/Security%2B_(SY0--701)-E60028?logo=comptia&logoColor=white&style=for-the-badge)
 
-### 🧠 Soft Skills & Methodologies
+### 🧠 Soft Skills
 ![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-4682B4?style=for-the-badge)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-DAA520?style=for-the-badge)
 ![Documentation](https://img.shields.io/badge/Documentation-2E8B57?style=for-the-badge)
 ![Self-Learning](https://img.shields.io/badge/Self_Paced_Learning-9932CC?style=for-the-badge)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-blue?style=for-the-badge&logo=brains&logoColor=white)
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-blue?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-blue?style=for-the-badge)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-blue?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-blue?style=for-the-badge)
+![Professionalism](https://img.shields.io/badge/Professionalism-blue?style=for-the-badge)
+![Explaining Technical Concepts](https://img.shields.io/badge/Explaining_Technical_Concepts-blue?style=for-the-badge)
+
 
 
 ---
