@@ -17,14 +17,14 @@
 
 ### 🧰 Tools & Platforms
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![tcpdump](https://img.shields.io/badge/tcpdump-000000?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/Suricata-FF6B6B?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 
-### 🧪 Skills & Techniques
+### 🧪 Skills
 ![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-006400?style=for-the-badge)
 ![Command Line](https://img.shields.io/badge/Command_Line-4EAA25?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
