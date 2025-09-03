@@ -1,6 +1,6 @@
 <!-- Header / Greeting -->
 <h1 align="center">Hi there 👋, I'm Caden</h1>
-<h3 align="center">A curious cyber-guy from Utah</h3>
+<h3 align="center">A curious computer-guy from Utah</h3>
 
 <!-- Short Description -->
 - 🔭 I’m currently looking for a **cybersecurity analyst** role
